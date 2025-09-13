@@ -15,11 +15,11 @@ Java Version: Java 8 or later
 
  ## Features
  
-1.Open, Save, and Exit options
+1. File- Open, Save, and Exit options
 
-2. Cut, Copy, Paste editing functions
-
-3.About  with app info
+2. Edit- Cut, Copy, Paste
+   
+3.About - a pop up box with app info
 
 
  *** No database is required
