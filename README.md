@@ -13,7 +13,7 @@ Java Version: Java 8 or later
  
  2.Compile the program
 
- ##Features
+ ## Features
  
  1.Open, Save, and Exit options
 
@@ -22,5 +22,5 @@ Java Version: Java 8 or later
  3.About  with app info
 
 
- ***No database is required
+ *** No database is required
  
