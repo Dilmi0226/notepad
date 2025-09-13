@@ -19,7 +19,7 @@ Java Version: Java 8 or later
 
 2. Edit- Cut, Copy, Paste
    
-3.About - a pop up box with app info
+3.  Help ->  About - a pop up box with app info
 
 
  *** No database is required
