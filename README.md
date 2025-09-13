@@ -12,11 +12,13 @@ Java Version: Java 8 or later
  2.Compile the program
 
  ##Features
+ 
  1.Open, Save, and Exit options
 
  2. Cut, Copy, Paste editing functions
 
  3.About  with app info
+
 
  ***No database is required
  
